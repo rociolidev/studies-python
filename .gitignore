@@ -1,0 +1,16 @@
+﻿# Ambientes virtuais
+.venv/
+.venv314/
+venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Configurações e informações privadas
+.env
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+CONCLUSÕES - Vendas de outubro/2026
+
+Receita total (linhas com quantidade conhecida): R$ 10900.00
+Produto com maior receita: Notebook (R$ 7000.00)
+Categoria com maior receita: Computadores
+Ticket médio por venda: R$ 1211.11
+
+Observações:
+- O Mouse lidera em unidades vendidas, mas não em receita.
+- Uma venda de Teclado (05/10) está sem quantidade e ficou fora dos totais.
+- O impacto estimado dessa venda é de 240 a 360 reais (cerca de 2% do total).
